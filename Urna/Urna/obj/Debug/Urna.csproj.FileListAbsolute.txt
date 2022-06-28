@@ -1,0 +1,12 @@
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\bin\Debug\Urna.exe.config
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\bin\Debug\Urna.exe
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\bin\Debug\Urna.pdb
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.Form1.resources
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.Properties.Resources.resources
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.csproj.GenerateResource.cache
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.exe
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.pdb
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.csproj.AssemblyReference.cache
+C:\Users\matheus.bpaulino\source\repos\Urna\Urna\obj\Debug\Urna.apuracao.resources
